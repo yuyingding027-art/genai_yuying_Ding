@@ -21,8 +21,4 @@ The governance of artificial intelligence at the international level is one of t
 **Prompt used:**
 > "Based on Diana Ding's background at Johns Hopkins SAIS and her interest in AI, write content for `assistant_draft.md` including: a short title, a short intro paragraph about her, a short paragraph on an industry or problem area she cares about, and a bullet list of 3 ways generative AI might be useful in that area."
 
-**What the assistant did well:**
-The assistant drew a coherent throughline between Diana's international affairs training and the emerging field of AI governance, producing polished, professional prose that felt authentic to a SAIS graduate's framing. The bullet points were specific and actionable rather than generic.
-
-**What required clarification or adjustment:**
-The LinkedIn profile wasn't accessible for direct scraping, so the content relied on inferences from the JHUSAI indicator in the profile URL. In a real workflow, Diana would want to review and personalize the intro paragraph with specific experiences or roles not captured here.
+**Adjutment Notes": it falsely read my linkedin profile from ISAI into SAIS, so I'll have to change literally everything. And since there's no hobby stated in my linkedin, I'll generate them myself
